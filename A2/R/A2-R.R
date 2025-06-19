@@ -1,10 +1,3 @@
-# SCMA 632 Assignment - Final R Script
-# Objective: IPL Player Performance and Salary Analysis using R
-
-# --- Project Setup and Package Management ---
-
-# This section sets up your R environment and installs/loads the necessary packages
-
 # Set the base directory for the project
 BASE <- "C:\\Users\\ujjwa\\Documents\\VCU\\Pre-Course\\SCMA632\\Assignments\\A2\\R"
 setwd(BASE)  # Change working directory to where your data files are located
