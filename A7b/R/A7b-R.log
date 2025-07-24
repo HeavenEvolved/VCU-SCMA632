@@ -1,0 +1,3342 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.30)  24 JUL 2025 20:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./A7b-R.tex
+(A7b-R.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip51
+For additional information on amsmath, use the `?' option.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen149
+)) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count288
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip17
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks18
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks19
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count295
+)
+\MT@toks=\toks25
+\MT@tempbox=\box55
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks26
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen158
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count297
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks27
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count301
+\FV@InFile=\read2
+\FV@TabBox=\box56
+\c@FancyVerbLine=\count302
+\FV@StepNumber=\count303
+\FV@OutFile=\write3
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen167
+\fb@frh=\dimen168
+\FrameRule=\dimen169
+\FrameSep=\dimen170
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+\pandoc@box=\box57
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-06-21 v7.01n Hypertext links for LaTeX
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count304
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count305
+\Hy@pagecounter=\count306
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-06-21 v7.01n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count307
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-06-21 v7.01n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4052.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count308
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4787.
+\XeTeXLinkMargin=\dimen174
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count309
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring OFF on input line 6086.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
+\Hy@abspage=\count310
+\c@Item=\count311
+\c@Hfootnote=\count312
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-06-21 v7.01n Hyperref driver for pdfTeX
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip56
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count315
+)) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count316
+) (A7b-R.aux)
+\openout1 = `A7b-R.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Info: Redefining \microtypecontext on input line 112.
+Package microtype Info: Applying patch `item' on input line 112.
+Package microtype Info: Applying patch `toc' on input line 112.
+Package microtype Info: Applying patch `eqnum' on input line 112.
+Package microtype Info: Applying patch `footnote' on input line 112.
+Package microtype Info: Applying patch `verbatim' on input line 112.
+LaTeX Info: Redefining \microtypesetup on input line 112.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+
+LaTeX Warning: Command \showhyphens   has changed.
+               Check if current package is valid.
+
+LaTeX Info: Redefining \showhyphens on input line 112.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count317
+\scratchdimen=\dimen177
+\scratchbox=\box58
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen178
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks29
+)
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 112.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+14.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+14.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+114.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+114.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 114.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 114.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 114.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 114
+.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 114
+.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+16.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 118.
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+165.
+(C:\Users\ujjwa\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
+File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[1
+
+{C:/Users/ujjwa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ujjw
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/ujjwa/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+
+[2]
+
+[3]
+
+LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 376.
+
+<A7b-R_files/figure-latex/unnamed-chunk-1-1.pdf, id=23, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/unnamed-chunk-1-1.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/unnamed-chunk-1-1.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/unnamed-chunk-1-1.pdf  used o
+n input line 425.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+
+[4]
+
+[5 <./A7b-R_files/figure-latex/unnamed-chunk-1-1.pdf>]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+Underfull \vbox (badness 3148) detected at line 892
+ []
+
+
+
+[10]
+Underfull \vbox (badness 10000) detected at line 892
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 892
+ []
+
+
+
+[11]
+Underfull \vbox (badness 10000) detected at line 892
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 892
+ []
+
+
+
+[12]
+<A7b-R_files/figure-latex/unnamed-chunk-1-2.pdf, id=68, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/unnamed-chunk-1-2.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/unnamed-chunk-1-2.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/unnamed-chunk-1-2.pdf  used o
+n input line 894.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Overfull \vbox (1.78426pt too high) detected at line 908
+ []
+
+
+
+[13 <./A7b-R_files/figure-latex/unnamed-chunk-1-2.pdf>]
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:19] "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (128.74324pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:515] "CRUDE_BRENT.l1"
+ "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_WTI
+.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+
+[14]
+Overfull \hbox (553.992pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BRENT.l1
+ + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + CRUDE_D
+UBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, CRUD
+E_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CR
+UDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" "CR
+UDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_
+WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (170.74312pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUDE_B
+RENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, CRUDE
+_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CRU
+DE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRUDE_
+BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ y             : Named num [1:515] -0.0255 0.04
+17 0.0217 -0.0349 -0.0626 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:515] "1982-08-01" 
+"1982-09-01" "1982-10-01" "1982-11-01" ...[] 
+ []
+
+
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BR
+ENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + C
+RUDE_DUBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, C
+RUDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,     
+ CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRU
+DE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (186.49307pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUD
+E_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, CR
+UDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      
+CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRU
+DE_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:19] "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+
+[15]
+Overfull \hbox (128.74324pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:515] "CRUDE_BRENT.l1"
+ "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:515] 0.03489 -0.02845
+ -0.01013 -0.02212 0.00052 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_WTI
+.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BRENT.l1
+ + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + CRUDE_D
+UBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, CRUD
+E_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CR
+UDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" "CR
+UDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_
+WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (170.74312pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUDE_B
+RENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, CRUDE
+_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CRU
+DE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRUDE_
+BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ y             : Named num [1:515] -0.00451 -0.
+00302 -0.00454 0.00152 -0.01373 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:515] "1982-08-01" 
+"1982-09-01" "1982-10-01" "1982-11-01" ...[] 
+ []
+
+
+
+[16]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BR
+ENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + C
+RUDE_DUBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, C
+RUDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,     
+ CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRU
+DE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (186.49307pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUD
+E_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, CR
+UDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      
+CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRU
+DE_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:19] "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (128.74324pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:515] "CRUDE_BRENT.l1"
+ "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_WTI
+.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BRENT.l1
+ + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + CRUDE_D
+UBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, CRUD
+E_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CR
+UDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" "CR
+UDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRUDE_
+WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (170.74312pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUDE_B
+RENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+
+[17]
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, CRUDE
+_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      CRU
+DE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRUDE_
+BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ y             : Named num [1:515] -0.0159 0.05
+76 0.0105 -0.0507 -0.0534 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:515] "1982-08-01" 
+"1982-09-01" "1982-10-01" "1982-11-01" ...[] 
+ []
+
+
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (CRUDE_BR
+ENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.l1 + CRUDE_BRENT.l2 +      CRUDE_WTI.l2 + C
+RUDE_DUBAI.l2 + | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, C
+RUDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,     
+ CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:20] "y" "CRUDE_BRENT.l1" 
+"CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:19] "CRUDE_BRENT.l1" "CRU
+DE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (186.49307pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:19] "CRUD
+E_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" "CRUDE_BRENT.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, CR
+UDE_BRENT.l1, CRUDE_WTI.l1, CRUDE_DUBAI.l1, CRUDE_BRENT.l2, CRUDE_WTI.l2,      
+CRUDE_DUBAI.l2, CRUDE_BR| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:20]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:20] "y" "CRU
+DE_BRENT.l1" "CRUDE_WTI.l1" "CRUDE_DUBAI.l1" ...[] 
+ []
+
+
+
+[18]
+Overfull \hbox (207.49301pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ## 0.8112 0.8112 0.7567 0.7567 0.7553 0.7553 0.7315 0.7315 0.
+6989 0.6989 0.6984 0.6984 0.6761 0.6761 0.6392 0.6392 0.4962 0.03671[] 
+ []
+
+
+Overfull \hbox (1189.24016pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ## CRUDE_BRENT = CRUDE_BRENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.
+l1 + CRUDE_BRENT.l2 + CRUDE_WTI.l2 + CRUDE_DUBAI.l2 + CRUDE_BRENT.l3 + CRUDE_WT
+I.l3 + CRUDE_DUBAI.l3 + CRUDE_BRENT.l4 + CRUDE_WTI.l4 + CRUDE_DUBAI.l4 + CRUDE_
+BRENT.l5 + CRUDE_WTI.l5 + CRUDE_DUBAI.l5 + CRUDE_BRENT.l6 + CRUDE_WTI.l6 + CRUD
+E_DUBAI.l6 + const[] 
+ []
+
+
+
+[19]
+Overfull \hbox (1178.74019pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ## CRUDE_WTI = CRUDE_BRENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.l1
+ + CRUDE_BRENT.l2 + CRUDE_WTI.l2 + CRUDE_DUBAI.l2 + CRUDE_BRENT.l3 + CRUDE_WTI.
+l3 + CRUDE_DUBAI.l3 + CRUDE_BRENT.l4 + CRUDE_WTI.l4 + CRUDE_DUBAI.l4 + CRUDE_BR
+ENT.l5 + CRUDE_WTI.l5 + CRUDE_DUBAI.l5 + CRUDE_BRENT.l6 + CRUDE_WTI.l6 + CRUDE_
+DUBAI.l6 + const[] 
+ []
+
+
+Overfull \hbox (1189.24016pt too wide) in paragraph at lines 1341--1341
+[]\T1/lmtt/m/n/10 ## CRUDE_DUBAI = CRUDE_BRENT.l1 + CRUDE_WTI.l1 + CRUDE_DUBAI.
+l1 + CRUDE_BRENT.l2 + CRUDE_WTI.l2 + CRUDE_DUBAI.l2 + CRUDE_BRENT.l3 + CRUDE_WT
+I.l3 + CRUDE_DUBAI.l3 + CRUDE_BRENT.l4 + CRUDE_WTI.l4 + CRUDE_DUBAI.l4 + CRUDE_
+BRENT.l5 + CRUDE_WTI.l5 + CRUDE_DUBAI.l5 + CRUDE_BRENT.l6 + CRUDE_WTI.l6 + CRUD
+E_DUBAI.l6 + const[] 
+ []
+
+
+
+[20]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-1.
+pdf, id=109, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-1.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-1.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-1.pdf  used on input line 1343.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-2.
+pdf, id=110, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-2.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-2.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-2.pdf  used on input line 1344.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-3.
+pdf, id=111, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-3.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-3.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-3.pdf  used on input line 1345.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1343--1346
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1343--1346
+[]
+ []
+
+
+
+[21]
+
+[22 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-1.pdf>]
+
+[23 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-2.pdf>]
+
+[24 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-3.pdf>]
+
+[25]
+
+[26]
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:37] "NGAS_US.l1" "NGA
+S_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (13.24358pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:569] -0.04928 -0.0206
+9 -0.00842 0.02627 -0.00173 ...[] 
+ []
+
+
+Overfull \hbox (60.49344pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:569] "NGAS_US.l1" "NG
+AS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l1" 
+"NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.l1 + N
+GAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NGAS_US.
+l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, NGAS
+_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS
+_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l
+1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS_US
+.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, NGAS_
+US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS_
+US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGAS_U
+S.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:569] "1978-02-01" 
+"1978-03-01" "1978-04-01" "1978-05-01" ...[] 
+ []
+
+
+
+[27]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.
+l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NG
+AS_US.l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, N
+GAS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      N
+GAS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EU
+R.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (118.24327pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS
+_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, NG
+AS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NG
+AS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGA
+S_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:37] "NGAS_US.l1" "NGA
+S_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:569] -0.05047 0.00558
+ -0.05504 -0.01056 0.00674 ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ effects      : Named num [1:569] -0.34266 0.51674
+ -0.00384 -0.15155 0.06735 ...[] 
+ []
+
+
+Overfull \hbox (60.49344pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:569] "NGAS_US.l1" "NG
+AS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:569] 0.05047 -0.00558
+ 0.05504 0.01056 -0.00674 ...[] 
+ []
+
+
+
+[28]
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l1" 
+"NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.l1 + N
+GAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NGAS_US.
+l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, NGAS
+_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS
+_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l
+1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS_US
+.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, NGAS_
+US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS_
+US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGAS_U
+S.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:569] "1978-02-01" 
+"1978-03-01" "1978-04-01" "1978-05-01" ...[] 
+ []
+
+
+
+[29]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.
+l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NG
+AS_US.l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, N
+GAS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      N
+GAS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EU
+R.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (118.24327pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS
+_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, NG
+AS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NG
+AS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGA
+S_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:37] "NGAS_US.l1" "NGA
+S_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:569] -0.04205 -0.0196
+2 -0.00154 -0.01176 -0.00798 ...[] 
+ []
+
+
+Overfull \hbox (60.49344pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:569] "NGAS_US.l1" "NG
+AS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l1" 
+"NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+
+[30]
+Overfull \hbox (553.992pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.l1 + N
+GAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NGAS_US.
+l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, NGAS
+_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS
+_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EUR.l
+1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (102.49332pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS_US
+.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, NGAS_
+US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NGAS_
+US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGAS_U
+S.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:569] "1978-02-01" 
+"1978-03-01" "1978-04-01" "1978-05-01" ...[] 
+ []
+
+
+
+[31]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (NGAS_US.
+l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.l2 + NGAS_EUR.l2 +      NGAS_JP.l2 + NG
+AS_US.l3 + NGAS_| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, N
+GAS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      N
+GAS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:37] "NGAS_US.l1" "NGAS_EU
+R.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (118.24327pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:37] "NGAS
+_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" "NGAS_US.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, NG
+AS_US.l1, NGAS_EUR.l1, NGAS_JP.l1, NGAS_US.l2, NGAS_EUR.l2, NGAS_JP.l2,      NG
+AS_US.l3, NGAS_EUR.l3, N| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:38]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:38] "y" "NGA
+S_US.l1" "NGAS_EUR.l1" "NGAS_JP.l1" ...[] 
+ []
+
+
+
+[32]
+Overfull \hbox (832.2412pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ## 0.9221 0.9221 0.9021 0.9021 0.8877 0.8877 0.8858 0.8858 0.
+8828 0.8828 0.8807 0.8807 0.871 0.871 0.8633 0.8633 0.859 0.859 0.8574 0.8574 0
+.8571 0.8571 0.8403 0.8403 0.8386 0.8332 0.8332 0.829 0.829 0.8058 0.8058 0.791
+9 0.7919 0.7373 0.7373 0.5045[] 
+ []
+
+
+Overfull \hbox (2191.98724pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ## NGAS_US = NGAS_US.l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.
+l2 + NGAS_EUR.l2 + NGAS_JP.l2 + NGAS_US.l3 + NGAS_EUR.l3 + NGAS_JP.l3 + NGAS_US
+.l4 + NGAS_EUR.l4 + NGAS_JP.l4 + NGAS_US.l5 + NGAS_EUR.l5 + NGAS_JP.l5 + NGAS_U
+S.l6 + NGAS_EUR.l6 + NGAS_JP.l6 + NGAS_US.l7 + NGAS_EUR.l7 + NGAS_JP.l7 + NGAS_
+US.l8 + NGAS_EUR.l8 + NGAS_JP.l8 + NGAS_US.l9 + NGAS_EUR.l9 + NGAS_JP.l9 + NGAS
+_US.l10 + NGAS_EUR.l10 + NGAS_JP.l10 + NGAS_US.l11 + NGAS_EUR.l11 + NGAS_JP.l11
+ + NGAS_US.l12 + NGAS_EUR.l12 + NGAS_JP.l12 + const[] 
+ []
+
+
+
+[33]
+Overfull \hbox (2197.23723pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ## NGAS_EUR = NGAS_US.l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US
+.l2 + NGAS_EUR.l2 + NGAS_JP.l2 + NGAS_US.l3 + NGAS_EUR.l3 + NGAS_JP.l3 + NGAS_U
+S.l4 + NGAS_EUR.l4 + NGAS_JP.l4 + NGAS_US.l5 + NGAS_EUR.l5 + NGAS_JP.l5 + NGAS_
+US.l6 + NGAS_EUR.l6 + NGAS_JP.l6 + NGAS_US.l7 + NGAS_EUR.l7 + NGAS_JP.l7 + NGAS
+_US.l8 + NGAS_EUR.l8 + NGAS_JP.l8 + NGAS_US.l9 + NGAS_EUR.l9 + NGAS_JP.l9 + NGA
+S_US.l10 + NGAS_EUR.l10 + NGAS_JP.l10 + NGAS_US.l11 + NGAS_EUR.l11 + NGAS_JP.l1
+1 + NGAS_US.l12 + NGAS_EUR.l12 + NGAS_JP.l12 + const[] 
+ []
+
+
+
+[34]
+Overfull \hbox (2191.98724pt too wide) in paragraph at lines 2025--2025
+[]\T1/lmtt/m/n/10 ## NGAS_JP = NGAS_US.l1 + NGAS_EUR.l1 + NGAS_JP.l1 + NGAS_US.
+l2 + NGAS_EUR.l2 + NGAS_JP.l2 + NGAS_US.l3 + NGAS_EUR.l3 + NGAS_JP.l3 + NGAS_US
+.l4 + NGAS_EUR.l4 + NGAS_JP.l4 + NGAS_US.l5 + NGAS_EUR.l5 + NGAS_JP.l5 + NGAS_U
+S.l6 + NGAS_EUR.l6 + NGAS_JP.l6 + NGAS_US.l7 + NGAS_EUR.l7 + NGAS_JP.l7 + NGAS_
+US.l8 + NGAS_EUR.l8 + NGAS_JP.l8 + NGAS_US.l9 + NGAS_EUR.l9 + NGAS_JP.l9 + NGAS
+_US.l10 + NGAS_EUR.l10 + NGAS_JP.l10 + NGAS_US.l11 + NGAS_EUR.l11 + NGAS_JP.l11
+ + NGAS_US.l12 + NGAS_EUR.l12 + NGAS_JP.l12 + const[] 
+ []
+
+
+
+[35]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-4.
+pdf, id=189, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-4.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-4.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-4.pdf  used on input line 2027.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-5.
+pdf, id=190, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-5.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-5.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-5.pdf  used on input line 2028.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-6.
+pdf, id=191, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-6.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-6.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-6.pdf  used on input line 2029.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2027--2030
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2027--2030
+[]
+ []
+
+
+
+[36]
+
+[37 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-4.pdf>]
+
+[38 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-5.pdf>]
+
+[39 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-6.pdf>]
+
+[40]
+
+[41]
+Overfull \hbox (112.99329pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:25] "COAL_AUS.l1" "CO
+AL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:485] -0.00867 -0.0295
+4 0.00647 0.01977 0.00277 ...[] 
+ []
+
+
+Overfull \hbox (118.24327pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:485] "COAL_AUS.l1" "C
+OAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:485] 0.00867 0.02954 
+-0.00647 -0.01977 -0.00277 ...[] 
+ []
+
+
+Overfull \hbox (60.49344pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_SAFRICA
+.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (COAL_AUS.l1 + 
+COAL_SAFRICA.l1 + COAL_AUS.l2 + COAL_SAFRICA.l2 +      COAL_AUS.l3 + COAL_SAFRI
+CA.l3 + CO| __truncated__ ...[] 
+ []
+
+
+
+[42]
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, COAL
+_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COAL_
+SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:26] "y" "COAL_AUS.l1" "COAL_
+SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (76.2434pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_SAFR
+ICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (160.24315pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:25] "COAL_AU
+S.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, COAL_
+AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COAL_S
+AFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:26] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:26] "y" "COAL_A
+US.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:485] "1985-02-01" 
+"1985-03-01" "1985-04-01" "1985-05-01" ...[] 
+ []
+
+
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (COAL_AUS
+.l1 + COAL_SAFRICA.l1 + COAL_AUS.l2 + COAL_SAFRICA.l2 +      COAL_AUS.l3 + COAL
+_SAFRICA.l3 + CO| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, C
+OAL_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      CO
+AL_SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:26] "y" "COAL_AUS.l1" "CO
+AL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (91.99335pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_S
+AFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (175.9931pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:25] "COAL
+_AUS.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, CO
+AL_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COA
+L_SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:26]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+
+[43]
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:26] "y" "COA
+L_AUS.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (112.99329pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:25] "COAL_AUS.l1" "CO
+AL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:485] 0.00184 -0.01827
+ -0.00595 0.00555 0.00619 ...[] 
+ []
+
+
+Overfull \hbox (118.24327pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:485] "COAL_AUS.l1" "C
+OAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:485] -0.00184 0.01827
+ 0.00595 -0.00555 -0.00619 ...[] 
+ []
+
+
+Overfull \hbox (60.49344pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_SAFRICA
+.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (COAL_AUS.l1 + 
+COAL_SAFRICA.l1 + COAL_AUS.l2 + COAL_SAFRICA.l2 +      COAL_AUS.l3 + COAL_SAFRI
+CA.l3 + CO| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, COAL
+_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COAL_
+SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:26] "y" "COAL_AUS.l1" "COAL_
+SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (76.2434pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_SAFR
+ICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (160.24315pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:25] "COAL_AU
+S.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, COAL_
+AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COAL_S
+AFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:26] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:26] "y" "COAL_A
+US.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:485] "1985-02-01" 
+"1985-03-01" "1985-04-01" "1985-05-01" ...[] 
+ []
+
+
+
+[44]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (COAL_AUS
+.l1 + COAL_SAFRICA.l1 + COAL_AUS.l2 + COAL_SAFRICA.l2 +      COAL_AUS.l3 + COAL
+_SAFRICA.l3 + CO| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, C
+OAL_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      CO
+AL_SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:26] "y" "COAL_AUS.l1" "CO
+AL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+Overfull \hbox (91.99335pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:25] "COAL_AUS.l1" "COAL_S
+AFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (175.9931pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:25] "COAL
+_AUS.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" "COAL_SAFRICA.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, CO
+AL_AUS.l1, COAL_SAFRICA.l1, COAL_AUS.l2, COAL_SAFRICA.l2, COAL_AUS.l3,      COA
+L_SAFRICA.l3, COAL_AUS.l| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:26]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:26] "y" "COA
+L_AUS.l1" "COAL_SAFRICA.l1" "COAL_AUS.l2" ...[] 
+ []
+
+
+
+[45]
+Overfull \hbox (422.74239pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ## 0.8872 0.8872 0.8864 0.8864 0.8817 0.8817 0.8594 0.8594 0.
+8587 0.8587 0.8496 0.8496 0.8465 0.8465 0.8363 0.8363 0.8305 0.8202 0.8202 0.79
+72 0.7972 0.7683 0.5349 0.5349[] 
+ []
+
+
+Overfull \hbox (1677.48874pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ## COAL_AUS = COAL_AUS.l1 + COAL_SAFRICA.l1 + COAL_AUS.l2 + C
+OAL_SAFRICA.l2 + COAL_AUS.l3 + COAL_SAFRICA.l3 + COAL_AUS.l4 + COAL_SAFRICA.l4 
++ COAL_AUS.l5 + COAL_SAFRICA.l5 + COAL_AUS.l6 + COAL_SAFRICA.l6 + COAL_AUS.l7 +
+ COAL_SAFRICA.l7 + COAL_AUS.l8 + COAL_SAFRICA.l8 + COAL_AUS.l9 + COAL_SAFRICA.l
+9 + COAL_AUS.l10 + COAL_SAFRICA.l10 + COAL_AUS.l11 + COAL_SAFRICA.l11 + COAL_AU
+S.l12 + COAL_SAFRICA.l12 + const[] 
+ []
+
+
+
+[46]
+Overfull \hbox (1698.48868pt too wide) in paragraph at lines 2520--2520
+[]\T1/lmtt/m/n/10 ## COAL_SAFRICA = COAL_AUS.l1 + COAL_SAFRICA.l1 + COAL_AUS.l2
+ + COAL_SAFRICA.l2 + COAL_AUS.l3 + COAL_SAFRICA.l3 + COAL_AUS.l4 + COAL_SAFRICA
+.l4 + COAL_AUS.l5 + COAL_SAFRICA.l5 + COAL_AUS.l6 + COAL_SAFRICA.l6 + COAL_AUS.
+l7 + COAL_SAFRICA.l7 + COAL_AUS.l8 + COAL_SAFRICA.l8 + COAL_AUS.l9 + COAL_SAFRI
+CA.l9 + COAL_AUS.l10 + COAL_SAFRICA.l10 + COAL_AUS.l11 + COAL_SAFRICA.l11 + COA
+L_AUS.l12 + COAL_SAFRICA.l12 + const[] 
+ []
+
+
+
+[47]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-7.
+pdf, id=257, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-7.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-7.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-7.pdf  used on input line 2522.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-8.
+pdf, id=258, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-8.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-8.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-8.pdf  used on input line 2523.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2524
+[][]
+ []
+
+
+
+[48 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-7.pdf>]
+
+[49 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-8.pdf>]
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:9] "GOLD.l1" "SILVER.
+l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (18.49356pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:783] -0.00499 -0.0053
+5 -0.00412 -0.00573 -0.00426 ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:783] "GOLD.l1" "SILVE
+R.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+
+[50]
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 + SILV
+ER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + ALUMIN
+UM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (349.2426pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, GOLD
+.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALU
+MINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.l1"
+ "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (343.99261pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, GOLD.
+l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALUM
+INUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOLD.l
+1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:783] "1960-04-01" 
+"1960-05-01" "1960-06-01" "1960-07-01" ...[] 
+ []
+
+
+Overfull \hbox (506.74214pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 
++ SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + 
+ALUMINUM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (364.99255pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, G
+OLD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, 
+ALUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:9] "GOLD.l1" "SILVER.l1" 
+"COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.
+l1" "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (359.74257pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, GO
+LD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, A
+LUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOL
+D.l1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+
+[51]
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:9] "GOLD.l1" "SILVER.
+l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:783] -0.000994 -0.007
+037 -0.00038 -0.005273 -0.00396 ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:783] "GOLD.l1" "SILVE
+R.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:783] 0.000994 0.00703
+7 0.00038 0.005273 0.00396 ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 + SILV
+ER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + ALUMIN
+UM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (349.2426pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, GOLD
+.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALU
+MINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.l1"
+ "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (343.99261pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, GOLD.
+l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALUM
+INUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOLD.l
+1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:783] "1960-04-01" 
+"1960-05-01" "1960-06-01" "1960-07-01" ...[] 
+ []
+
+
+Overfull \hbox (506.74214pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 
++ SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + 
+ALUMINUM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (364.99255pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, G
+OLD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, 
+ALUMINUM.l2, const)[] 
+ []
+
+
+
+[52]
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:9] "GOLD.l1" "SILVER.l1" 
+"COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.
+l1" "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (359.74257pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, GO
+LD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, A
+LUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOL
+D.l1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:9] "GOLD.l1" "SILVER.
+l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:783] "GOLD.l1" "SILVE
+R.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:783] -0.02187 0.02865
+ -0.02341 0.01184 0.00683 ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 + SILV
+ER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + ALUMIN
+UM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (349.2426pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, GOLD
+.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALU
+MINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.l1"
+ "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (343.99261pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, GOLD.
+l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALUM
+INUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOLD.l
+1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ y          : Named num [1:783] 0.05423 -0.0545
+1 0.00994 0.0155 -0.03838 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:783] "1960-04-01" 
+"1960-05-01" "1960-06-01" "1960-07-01" ...[] 
+ []
+
+
+
+[53]
+Overfull \hbox (506.74214pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 
++ SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + 
+ALUMINUM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (364.99255pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, G
+OLD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, 
+ALUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:9] "GOLD.l1" "SILVER.l1" 
+"COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.
+l1" "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (359.74257pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, GO
+LD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, A
+LUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOL
+D.l1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:9] "GOLD.l1" "SILVER.
+l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:783] 0.001723 -0.0020
+52 0.000132 0.000182 -0.002276 ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:783] "GOLD.l1" "SILVE
+R.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:783] -0.001723 0.0020
+52 -0.000132 -0.000182 0.002276 ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 + SILV
+ER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + ALUMIN
+UM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (349.2426pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, GOLD
+.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALU
+MINUM.l2, const)[] 
+ []
+
+
+
+[54]
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.l1"
+ "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (343.99261pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, GOLD.
+l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, ALUM
+INUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOLD.l
+1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:783] "1960-04-01" 
+"1960-05-01" "1960-06-01" "1960-07-01" ...[] 
+ []
+
+
+Overfull \hbox (506.74214pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (GOLD.l1 
++ SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + GOLD.l2 + SILVER.l2 +      COPPER.l2 + 
+ALUMINUM.l2 + const)[] 
+ []
+
+
+Overfull \hbox (364.99255pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, G
+OLD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, 
+ALUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:9] "GOLD.l1" "SILVER.l1" 
+"COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (86.74336pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:9] "GOLD.
+l1" "SILVER.l1" "COPPER.l1" "ALUMINUM.l1" ...[] 
+ []
+
+
+Overfull \hbox (359.74257pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, GO
+LD.l1, SILVER.l1, COPPER.l1, ALUMINUM.l1, GOLD.l2, SILVER.l2,      COPPER.l2, A
+LUMINUM.l2, const)[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:10]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:10] "y" "GOL
+D.l1" "SILVER.l1" "COPPER.l1" ...[] 
+ []
+
+
+
+[55]
+Overfull \hbox (112.99329pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ## GOLD = GOLD.l1 + SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + GOL
+D.l2 + SILVER.l2 + COPPER.l2 + ALUMINUM.l2 + const[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ## SILVER = GOLD.l1 + SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + G
+OLD.l2 + SILVER.l2 + COPPER.l2 + ALUMINUM.l2 + const[] 
+ []
+
+
+
+[56]
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ## COPPER = GOLD.l1 + SILVER.l1 + COPPER.l1 + ALUMINUM.l1 + G
+OLD.l2 + SILVER.l2 + COPPER.l2 + ALUMINUM.l2 + const[] 
+ []
+
+
+Overfull \hbox (133.99323pt too wide) in paragraph at lines 3032--3032
+[]\T1/lmtt/m/n/10 ## ALUMINUM = GOLD.l1 + SILVER.l1 + COPPER.l1 + ALUMINUM.l1 +
+ GOLD.l2 + SILVER.l2 + COPPER.l2 + ALUMINUM.l2 + const[] 
+ []
+
+
+
+[57]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-9.
+pdf, id=311, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-9.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-9.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-9.pdf  used on input line 3034.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-10
+.pdf, id=312, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-10.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-10.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-10.pdf  used on input line 3035.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-11
+.pdf, id=313, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-11.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-11.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-11.pdf  used on input line 3036.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-12
+.pdf, id=314, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-12.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-12.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-12.pdf  used on input line 3037.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3034--3038
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3034--3038
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3034--3038
+[]
+ []
+
+
+
+[58 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-9.pdf>]
+
+[59 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-10.pdf>]
+
+[60 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-11.pdf>]
+
+[61 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-12.pdf>]
+
+[62]
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:549] -8.61e-03 2.94e-
+05 2.36e-02 1.55e-01 2.64e-03 ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:549] "WHEAT_US_HRW.l1
+" "WHEAT_US_SRW.l1" "const" "" ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:549] 5.97e-03 -2.94e-
+05 -2.64e-04 3.78e-03 3.60e-02 ...[] 
+ []
+
+
+
+[63]
+Overfull \hbox (133.99323pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (WHEAT_US_HRW.l
+1 + WHEAT_US_SRW.l1 + const)[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, WHEA
+T_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:3] "WHEAT_US
+_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, WHEAT
+_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:4] "nu
+meric" "numeric" "numeric" "numeric"[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:4] "y" "WHEAT_U
+S_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:549] "1979-03-01" 
+"1979-04-01" "1979-05-01" "1979-06-01" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ WHEAT_US_SRW.l1: num [1:549] 0.03094 -0.00506 
+-0.01286 -0.00543 0.14733 ...[] 
+ []
+
+
+Overfull \hbox (165.49313pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (WHEAT_US
+_HRW.l1 + WHEAT_US_SRW.l1 + const)[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, W
+HEAT_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (44.74348pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:3] "WHEAT
+_US_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, WH
+EAT_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:4] 
+"numeric" "numeric" "numeric" "numeric"[] 
+ []
+
+
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:4] "y" "WHEA
+T_US_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (13.24358pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:549] -0.01023 -0.0127
+1 -0.00467 0.14557 -0.00116 ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ effects      : Named num [1:549] -0.230041 0.0943
+36 -0.013587 0.146297 0.000184 ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:549] "WHEAT_US_HRW.l1
+" "WHEAT_US_SRW.l1" "const" "" ...[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:549] 0.005172 -0.0001
+42 -0.000755 0.001762 0.027715 ...[] 
+ []
+
+
+
+[64]
+Overfull \hbox (133.99323pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (WHEAT_US_HRW.l
+1 + WHEAT_US_SRW.l1 + const)[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, WHEA
+T_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (28.99353pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:3] "WHEAT_US
+_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, WHEAT
+_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:4] "nu
+meric" "numeric" "numeric" "numeric"[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:4] "y" "WHEAT_U
+S_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ y              : Named num [1:549] -0.00506 -0
+.01286 -0.00543 0.14733 0.02655 ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:549] "1979-03-01" 
+"1979-04-01" "1979-05-01" "1979-06-01" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..$ WHEAT_US_SRW.l1: num [1:549] 0.03094 -0.00506 
+-0.01286 -0.00543 0.14733 ...[] 
+ []
+
+
+Overfull \hbox (165.49313pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (WHEAT_US
+_HRW.l1 + WHEAT_US_SRW.l1 + const)[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, W
+HEAT_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (44.74348pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:3] "WHEAT
+_US_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, WH
+EAT_US_HRW.l1, WHEAT_US_SRW.l1, const)[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:4] 
+"numeric" "numeric" "numeric" "numeric"[] 
+ []
+
+
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 3365--3365
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:4] "y" "WHEA
+T_US_HRW.l1" "WHEAT_US_SRW.l1" "const"[] 
+ []
+
+
+
+[65]
+
+[66]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-13
+.pdf, id=372, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-13.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-13.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-13.pdf  used on input line 3367.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-14
+.pdf, id=373, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-14.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-14.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-14.pdf  used on input line 3368.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3369
+[][]
+ []
+
+
+
+[67 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-13.pdf>]
+
+[68 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-14.pdf>]
+
+[69]
+Overfull \hbox (76.2434pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:22] "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (34.24352pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:778] -0.014361 0.0122
+97 -0.005759 0.007177 -0.000868 ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:778] "SUGAR_EU.l1" "S
+UGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.l1"
+ "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU.l1 + 
+SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l2 + SU
+GAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, SUGA
+R_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2
+, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.
+l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGAR_E
+U.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, SUGAR
+_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2,
+ SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUGAR_
+EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:778] "1960-09-01" 
+"1960-10-01" "1960-11-01" "1960-12-01" ...[] 
+ []
+
+
+
+[70]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU
+.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l
+2 + SUGAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, S
+UGAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD
+.l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:23] "y" "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_
+US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (139.24321pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGA
+R_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, SU
+GAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.
+l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUG
+AR_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (76.2434pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:22] "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ residuals    : Named num [1:778] 0.0425 -0.02553 
+0.00741 -0.01885 -0.00388 ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:778] "SUGAR_EU.l1" "S
+UGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:778] -0.0086 0.00872 
+-0.00741 0.01885 -0.01321 ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.l1"
+ "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+
+[71]
+Overfull \hbox (553.992pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU.l1 + 
+SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l2 + SU
+GAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, SUGA
+R_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2
+, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.
+l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGAR_E
+U.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, SUGAR
+_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2,
+ SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUGAR_
+EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:778] "1960-09-01" 
+"1960-10-01" "1960-11-01" "1960-12-01" ...[] 
+ []
+
+
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU
+.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l
+2 + SUGAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, S
+UGAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD
+.l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:23] "y" "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_
+US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (139.24321pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGA
+R_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, SU
+GAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.
+l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+
+[72]
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUG
+AR_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (76.2434pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:22] "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "names")= chr [1:778] "SUGAR_EU.l1" "S
+UGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (7.99359pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ fitted.values: Named num [1:778] -0.00214 -0.0103
+3 -0.07634 0.02551 0.04248 ...[] 
+ []
+
+
+Overfull \hbox (23.74355pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.l1"
+ "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (553.992pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. ..$ terms        :Classes \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU.l1 + 
+SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l2 + SU
+GAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (480.49222pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "variables")= language list(y, SUGA
+R_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2
+, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (39.4935pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_US.
+l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (123.49326pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGAR_E
+U.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (475.24223pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "predvars")= language list(y, SUGAR
+_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.l2,
+ SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (65.74342pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23] "n
+umeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUGAR_
+EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. ..- attr(*, "names")= chr [1:778] "1960-09-01" 
+"1960-10-01" "1960-11-01" "1960-12-01" ...[] 
+ []
+
+
+
+[73]
+Overfull \hbox (585.49191pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. ..- attr(*, "terms")=Classes \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 terms\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 formula\TS1/lmtt/m/n/10 '  \T1/lmtt/m/n/10 language y ~ -1 + (SUGAR_EU
+.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUGAR_EU.l2 + SUGAR_US.l2 +      SUGAR_WLD.l
+2 + SUGAR_EU.l3 | __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (496.24217pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "variables")= language list(y, S
+UGAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD
+.l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (2.7436pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:23] "y" "SUGAR_EU.l1" "SU
+GAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+Overfull \hbox (55.24345pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. .. ..$ : chr [1:22] "SUGAR_EU.l1" "SUGAR_
+US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (139.24321pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "term.labels")= chr [1:22] "SUGA
+R_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" "SUGAR_EU.l2" ...[] 
+ []
+
+
+Overfull \hbox (490.99219pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "predvars")= language list(y, SU
+GAR_EU.l1, SUGAR_US.l1, SUGAR_WLD.l1, SUGAR_EU.l2, SUGAR_US.l2,      SUGAR_WLD.
+l2, SUGAR_EU.l3, SUGAR_U| __truncated__ ...[] 
+ []
+
+
+Overfull \hbox (81.49338pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. ..- attr(*, "dataClasses")= Named chr [1:23]
+ "numeric" "numeric" "numeric" "numeric" ...[] 
+ []
+
+
+Overfull \hbox (70.99341pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ##   .. .. .. .. .. ..- attr(*, "names")= chr [1:23] "y" "SUG
+AR_EU.l1" "SUGAR_US.l1" "SUGAR_WLD.l1" ...[] 
+ []
+
+
+
+[74]
+Overfull \hbox (317.74269pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ## 0.8358 0.8358 0.8137 0.8137 0.8004 0.7664 0.7664 0.7625 0.
+7625 0.6614 0.6614 0.6547 0.6547 0.6421 0.6421 0.6268 0.5882 0.5882 0.5436 0.44
+65 0.05488[] 
+ []
+
+
+Overfull \hbox (1210.2401pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ## SUGAR_EU = SUGAR_EU.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUGA
+R_EU.l2 + SUGAR_US.l2 + SUGAR_WLD.l2 + SUGAR_EU.l3 + SUGAR_US.l3 + SUGAR_WLD.l3
+ + SUGAR_EU.l4 + SUGAR_US.l4 + SUGAR_WLD.l4 + SUGAR_EU.l5 + SUGAR_US.l5 + SUGAR
+_WLD.l5 + SUGAR_EU.l6 + SUGAR_US.l6 + SUGAR_WLD.l6 + SUGAR_EU.l7 + SUGAR_US.l7 
++ SUGAR_WLD.l7 + const[] 
+ []
+
+
+
+[75]
+Overfull \hbox (1210.2401pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ## SUGAR_US = SUGAR_EU.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUGA
+R_EU.l2 + SUGAR_US.l2 + SUGAR_WLD.l2 + SUGAR_EU.l3 + SUGAR_US.l3 + SUGAR_WLD.l3
+ + SUGAR_EU.l4 + SUGAR_US.l4 + SUGAR_WLD.l4 + SUGAR_EU.l5 + SUGAR_US.l5 + SUGAR
+_WLD.l5 + SUGAR_EU.l6 + SUGAR_US.l6 + SUGAR_WLD.l6 + SUGAR_EU.l7 + SUGAR_US.l7 
++ SUGAR_WLD.l7 + const[] 
+ []
+
+
+Overfull \hbox (1215.49008pt too wide) in paragraph at lines 3892--3892
+[]\T1/lmtt/m/n/10 ## SUGAR_WLD = SUGAR_EU.l1 + SUGAR_US.l1 + SUGAR_WLD.l1 + SUG
+AR_EU.l2 + SUGAR_US.l2 + SUGAR_WLD.l2 + SUGAR_EU.l3 + SUGAR_US.l3 + SUGAR_WLD.l
+3 + SUGAR_EU.l4 + SUGAR_US.l4 + SUGAR_WLD.l4 + SUGAR_EU.l5 + SUGAR_US.l5 + SUGA
+R_WLD.l5 + SUGAR_EU.l6 + SUGAR_US.l6 + SUGAR_WLD.l6 + SUGAR_EU.l7 + SUGAR_US.l7
+ + SUGAR_WLD.l7 + const[] 
+ []
+
+
+
+[76]
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-15
+.pdf, id=426, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-15.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-15.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-15.pdf  used on input line 3894.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-16
+.pdf, id=427, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-16.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-16.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-16.pdf  used on input line 3895.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroups-17
+.pdf, id=428, 469.755pt x 325.215pt>
+File: A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgrou
+ps-17.pdf Graphic file (type pdf)
+<use A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgroup
+s-17.pdf>
+Package pdftex.def Info: A7b-R_files/figure-latex/Perform Analysis on Commodity
+ Groups and Subgroups-17.pdf  used on input line 3896.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3894--3897
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3894--3897
+[]
+ []
+
+
+
+[77]
+
+[78 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-15.pdf>]
+
+[79 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-16.pdf>]
+
+[80 <./A7b-R_files/figure-latex/Perform Analysis on Commodity Groups and Subgro
+ups-17.pdf>]
+
+[81] (A7b-R.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 14017 strings out of 468221
+ 229867 string characters out of 5432891
+ 708761 words of memory out of 5000000
+ 42247 multiletter control sequences out of 15000+600000
+ 651473 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,6n,93p,1004b,1643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
+><C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+<C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
+C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><
+C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtko10.pfb>
+<C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+<C:/Users/ujjwa/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb
+>
+Output written on A7b-R.pdf (81 pages, 388357 bytes).
+PDF statistics:
+ 521 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 12384 words of extra memory for PDF output out of 14400 (max. 10000000)
+
