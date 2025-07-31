@@ -59,7 +59,7 @@ def main():
         layout="wide",
     )
 
-    keys = ["data", "ticker"]
+    keys = ["data", "ticker", "uni_results"]
 
     for key in keys:
         if key not in st.session_state:
@@ -105,6 +105,9 @@ def main():
             
         # with st.expander("Multivariate Model Comparison", expanded=True):
         #     mv.multivariate_comparison(st.session_state.data, "Close")
+        
+        with st.expander("Future Forecast", expanded=True):
+            uv.forecast_future_with_best_model(st.session_state.data["Close"])
             
     else:
         st.warning("Please enter a valid ticker symbol to fetch data.")

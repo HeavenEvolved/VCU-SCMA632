@@ -20,13 +20,16 @@ def get_form():
             if data is not None and ticker is not None:
                 st.session_state.data = data
                 st.session_state.ticker = ticker
+                st.session_state.uni_results = None
                 del data
                 del ticker
             else:
                 st.error(f"Error fetching data for {ticker}")
                 st.session_state.data = None
                 st.session_state.ticker = None
+                st.session_state.uni_results = None
         else:
             st.error("Please enter one and only one valid ticker symbol.")
             st.session_state.data = None
             st.session_state.ticker = None
+            st.session_state.uni_results = None
