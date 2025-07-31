@@ -38,7 +38,7 @@ def plot_acf_pacf(acf_vals, pacf_vals):
     fig.add_trace(go.Bar(x=x, y=pacf_vals, name="PACF"))
     fig.update_layout(
         legend=dict(bgcolor='rgba(0, 0, 0, 0)'),
-        hoverlabel=dict(bgcolor="rgba(0, 0, 0, 0)"),
+        hoverlabel=dict(bgcolor="rgba(50,50,50,0.7)", font_color="white"),
         title="ACF and PACF",
         barmode="group",
         xaxis_title="Lag",
