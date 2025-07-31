@@ -93,14 +93,14 @@ def fit_garch_model(p, q):
         go.Scatter(
             x=st.session_state.data.index,
             y=arch_fit.conditional_volatility,
-            name="ARCH(1) Conditional Volatility",
+            name=f"ARCH({p}) Conditional Volatility",
         )
     )
     fig.add_trace(
         go.Scatter(
             x=st.session_state.data.index,
             y=garch_fit.conditional_volatility,
-            name="GARCH(1,1) Conditional Volatility",
+            name=f"GARCH({p},{q}) Conditional Volatility",
         )
     )
     fig.update_layout(
@@ -114,12 +114,12 @@ def fit_garch_model(p, q):
     arch_stats, arch_coefs = parse_arch_garch_results(arch_fit)
     garch_stats, garch_coefs = parse_arch_garch_results(garch_fit)
 
-    st.write("### ARCH(1) Model Summary")
+    st.write(f"### ARCH({p}) Model Summary")
     st.json(arch_stats)
     st.write("Significance of coefficients:")
     st.dataframe(arch_coefs)
 
-    st.write("### GARCH(1,1) Model Summary")
+    st.write(f"### GARCH({p},{q}) Model Summary")
     st.json(garch_stats)
     st.write("Significance of coefficients:")
     st.dataframe(garch_coefs)
@@ -127,7 +127,7 @@ def fit_garch_model(p, q):
     st.write("### Model Comparison Metrics")
     comparison_df = pd.DataFrame(
         {
-            "Model": ["ARCH(1)", "GARCH(1,1)"],
+            "Model": [f"ARCH({p})", f"GARCH({p},{q})"],
             "AIC": [arch_stats["AIC"], garch_stats["AIC"]],
             "BIC": [arch_stats["BIC"], garch_stats["BIC"]],
         }
@@ -137,11 +137,11 @@ def fit_garch_model(p, q):
     if (garch_stats["AIC"] < arch_stats["AIC"]) and (
         garch_stats["BIC"] < arch_stats["BIC"]
     ):
-        best_model = "GARCH(1,1)"
+        best_model = f"GARCH({p},{q})"
     else:
-        best_model = "ARCH(1)"
+        best_model = f"ARCH({p})"
         
-    if best_model == "GARCH(1,1)":
-        st.success("GARCH(1,1) is the preferred model for this dataset (lower AIC/BIC).")
+    if best_model == f"GARCH({p},{q})":
+        st.success(f"GARCH({p},{q}) is the preferred model for this dataset (lower AIC/BIC).")
     else:
-        st.success("ARCH(1) is the preferred model for this dataset (lower AIC/BIC).")
+        st.success(f"ARCH({p}) is the preferred model for this dataset (lower AIC/BIC).")
