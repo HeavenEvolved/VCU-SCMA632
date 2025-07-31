@@ -104,6 +104,7 @@ def fit_garch_model(p, q):
         )
     )
     fig.update_layout(
+        legend=dict(bgcolor='rgba(0, 0, 0, 0)'),
         title="ARCH and GARCH Model - Conditional Volatility",
         xaxis_title="Date",
         yaxis_title="Volatility (%)",
