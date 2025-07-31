@@ -72,7 +72,7 @@ def forecast_ar(train, test_len, lags=5, test_index=None):
         pred.index = pd.date_range(
             start=train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     return pred
 
@@ -86,7 +86,7 @@ def forecast_ma(train, test_len, q=2, test_index=None):
         pred.index = pd.date_range(
             start=train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     return pred
 
@@ -100,7 +100,7 @@ def forecast_arma(train, test_len, p=2, q=2, test_index=None):
         pred.index = pd.date_range(
             start=train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     return pred
 
@@ -114,7 +114,7 @@ def forecast_arima(train, test_len, p=2, d=1, q=2, test_index=None):
         pred.index = pd.date_range(
             start=train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     return pred
 
@@ -122,14 +122,14 @@ def forecast_arima(train, test_len, p=2, d=1, q=2, test_index=None):
 def forecast_sarima(train, test_len, p=1, d=1, q=1, s=5, test_index=None):
     seasonal_order = (1, 1, 1, s) if s > 1 else (0, 0, 0, 0)
     model = SARIMAX(train, order=(p, d, q), seasonal_order=seasonal_order).fit(disp=False)
-    pred = model.forecast(steps=test_len)
+    pred = model.forecast(steps=test_len) # type: ignore
     if test_index is not None:
         pred.index = test_index
     else:
         pred.index = pd.date_range(
             start=train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     return pred
 
@@ -152,7 +152,7 @@ def forecast_lr(train, test_len, n_lags=5, test_index=None):
         else pd.date_range(
             train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     )
     return pd.Series(preds, index=idx)
@@ -176,7 +176,7 @@ def forecast_rf(train, test_len, n_lags=5, test_index=None):
         else pd.date_range(
             train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     )
     return pd.Series(preds, index=idx)
@@ -200,7 +200,7 @@ def forecast_xgb(train, test_len, n_lags=5, test_index=None):
         else pd.date_range(
             train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     )
     return pd.Series(preds, index=idx)
@@ -215,7 +215,7 @@ def forecast_lgbm(train, test_len, n_lags=5, test_index=None):
     preds = []
     for _ in range(test_len):
         x_pred = np.array(last[-n_lags :]).reshape(1, -1)
-        y_pred = model.predict(x_pred)[0]
+        y_pred = model.predict(x_pred)[0] # type: ignore
         preds.append(y_pred)
         last.append(y_pred)
     idx = (
@@ -224,7 +224,7 @@ def forecast_lgbm(train, test_len, n_lags=5, test_index=None):
         else pd.date_range(
             train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     )
     return pd.Series(preds, index=idx)
@@ -250,14 +250,14 @@ def forecast_lstm(train, test_len, n_lags=5, epochs=20, test_index=None):
         X,
         y,
         epochs=epochs,
-        verbose=0,
+        verbose=0, # type: ignore
         callbacks=[EarlyStopping(monitor="loss", patience=3, restore_best_weights=True)],
     )
     last = list(train_scaled[-n_lags:])
     preds = []
     for _ in range(test_len):
         x_pred = np.array(last[-n_lags :]).reshape(1, n_lags, 1)
-        y_pred = model.predict(x_pred, verbose=0)[0, 0]
+        y_pred = model.predict(x_pred, verbose=0)[0, 0] # type: ignore
         preds.append(y_pred)
         last.append(y_pred)
     preds = np.array(preds) * np.std(train.values) + np.mean(train.values)
@@ -267,7 +267,7 @@ def forecast_lstm(train, test_len, n_lags=5, epochs=20, test_index=None):
         else pd.date_range(
             train.index[-1],
             periods=test_len + 1,
-            freq=train.index.freq or pd.infer_freq(train.index),
+            freq=train.index.freq or pd.infer_freq(train.index), # type: ignore
         )[1:]
     )
     return pd.Series(preds, index=idx)
