@@ -41,7 +41,7 @@ def plot_acf_pacf(acf_vals, pacf_vals):
         barmode="group",
         xaxis_title="Lag",
         yaxis_title="Correlation",
-        template="plotly_white",
+        template="plotly_dark",
     )
     st.plotly_chart(fig, use_container_width=True)
 
@@ -107,7 +107,7 @@ def fit_garch_model(p, q):
         title="ARCH and GARCH Model - Conditional Volatility",
         xaxis_title="Date",
         yaxis_title="Volatility (%)",
-        template="plotly_white",
+        template="plotly_dark",
     )
     st.plotly_chart(fig, use_container_width=True)
 

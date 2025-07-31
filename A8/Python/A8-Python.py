@@ -46,7 +46,7 @@ def plot_data(data: pd.DataFrame, ticker: str):
         yaxis2=dict(title="Log Returns", overlaying="y", side="right"),
         legend=dict(x=0.01, y=0.99),
         hovermode="x unified",
-        template="plotly_white",
+        template="plotly_dark",
     )
 
     st.plotly_chart(fig, use_container_width=True)

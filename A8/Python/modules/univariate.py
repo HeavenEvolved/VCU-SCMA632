@@ -413,7 +413,7 @@ def univariate_comparison(data_close: pd.Series):
     for r in st.session_state.uni_results:
         if r["Model"] in metrics_df["Model"].values:
             fig.add_trace(go.Scatter(x=r["Prediction"].index, y=r["Prediction"].values, name=r["Model"]))
-    fig.update_layout(title="Forecast Comparison (Test Window)", xaxis_title="Date", yaxis_title="Price", template="plotly_white")
+    fig.update_layout(title="Forecast Comparison (Test Window)", xaxis_title="Date", yaxis_title="Price", template="plotly_dark")
     st.plotly_chart(fig, use_container_width=True)
 
     # Warnings for models performing much worse than best based on selected metric
@@ -511,7 +511,7 @@ def forecast_future_with_best_model(data_close: pd.Series):
         title=f"{future_days}-Day Forecast Using {best_model_name}",
         xaxis_title="Date",
         yaxis_title="Value",
-        template="plotly_white",
+        template="plotly_dark",
         legend=dict(x=0, y=1)
     )
     

@@ -184,7 +184,7 @@ def multivariate_comparison(data, target_col):
                 results.append(("LSTM", pred, compute_metrics(test[target_col].values, pred.values)))
                 fig.add_trace(go.Scatter(x=test.index, y=pred, name="LSTM"))
 
-        fig.update_layout(title="Multivariate Forecast Comparison (Test Window)", xaxis_title="Date", yaxis_title=target_col, template="plotly_white")
+        fig.update_layout(title="Multivariate Forecast Comparison (Test Window)", xaxis_title="Date", yaxis_title=target_col, template="plotly_dark")
         st.plotly_chart(fig, use_container_width=True)
 
         metrics_df = pd.DataFrame([
