@@ -1,6 +1,6 @@
 # Time Series Analysis App
 
-This app provides interactive tools for univariate time series analysis, including AR, MA, ARMA, ARIMA, SARIMA, ARCH, and GARCH models. It features stationarity tests, ACF/PACF plots, model fitting, and forecasting, all accessible via a user-friendly Streamlit interface.
+This app provides interactive tools for univariate time series analysis with models, such as, AR, MA, ARMA, ARIMA, SARIMA, Linear Regression, Random Forest, XGBoost, LSTM and LightGBM. It features stationarity tests, ACF/PACF plots, model fitting, and forecasting, all accessible via a user-friendly Streamlit interface.
 
 ## Features
 
