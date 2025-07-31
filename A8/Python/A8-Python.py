@@ -40,11 +40,11 @@ def plot_data(data: pd.DataFrame, ticker: str):
 
     # Set up layout with two y-axes
     fig.update_layout(
+        legend=dict(bgcolor='rgba(0, 0, 0, 0)', x=0.01, y=0.99),
         title=f"{ticker} Close Price and Log Returns Over Time",
         xaxis=dict(title="Date"),
         yaxis=dict(title="Close Price", side="left"),
         yaxis2=dict(title="Log Returns", overlaying="y", side="right"),
-        legend=dict(x=0.01, y=0.99),
         hovermode="x unified",
         template="plotly_dark",
     )
